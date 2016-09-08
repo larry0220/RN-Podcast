@@ -1,7 +1,7 @@
 # RN-Podcast
 A simple podcast made by React-Native
 
-## 文件一律放在[wiki](https://github.com/tingwei628/RN-Podcast/wiki)
+## [文件](https://github.com/tingwei628/RN-Podcast/wiki)
 
 ## 如何貢獻 (How to Contribute)
 

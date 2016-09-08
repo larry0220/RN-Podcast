@@ -1,7 +1,7 @@
 # RN-Podcast
 A simple podcast made by React-Native
 
-## Q&A 一律放在wiki
+## 文件一律放在[wiki]()
 
 ## 如何貢獻 (How to Contribute)
 
